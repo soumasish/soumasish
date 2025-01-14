@@ -1,2 +1,2 @@
-I am a Data Scientist/Engineer passionate about Distributed Computing. Scala is my language of choice when tinkering with distributed constructs.
-I began my career in computing in 2008 as a Perl developer. In 2014, I moved to the United States to pursue graduate studies at the University at Buffalo. Since then, I have worked at companies like Amazon, LinkedIn, and Yahoo. I presently live in San Francisco.
+I am a Data Scientist/Engineer passionate about Distributed Computing. Scala is my language of choice when tinkering with distributed constructs. That said, I've written Python and Java for many years. 
+I began my career in computing in 2008 as a Perl developer. In 2014, I moved to the United States to attend grad school at the University at Buffalo. Since graduating in 2016, I have worked at companies like Amazon, LinkedIn, and Yahoo. I presently live in San Francisco.
